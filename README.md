@@ -17,11 +17,12 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-  <br/>
+  ![](https://github-readme-stats.vercel.app/api?username=THUNDERBLD&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=THUNDERBLD&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=THUNDERBLD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
