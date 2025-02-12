@@ -78,12 +78,13 @@
   <a href="ayanalihaider9@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://main--bespoke-pastelito-f356ea.netlify.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/726/726056.png" height="35" alt="protfolio logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/THUNDERBLD/THUNDERBLD/output/snake.svg" alt="Snake animation" />
 
 ###
