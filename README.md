@@ -1,12 +1,6 @@
-###
 <div>
-<h2 align="center">Welcome to THUNDER BLOOD's Github Profile</h2>
+<h2 align="center">THUNDER BLOOD's Github Profile</h2>
 </div>
-
-<div>
-<h2 align="center">💫 About Me:</h2>
-</div>
- 
 
 🔭 I’m currently working on Ecommerce With Admin Pannel and Own Version Control System, along with various development projects.<br>👯 I’m looking to collaborate on MERN stack projects, web design, and UI/UX enhancements.<br>🤝 I’m looking for help with advanced backend optimizations and AI integrations in web apps.<br>🌱 I’m currently learning Python for automation and DevOps for web solutions.<br>💬 Ask me about MERN stack, Java, Python, DevOps and scalable web solutions.<br>⚡ Fun fact: Nowadays I am creating programs to make my life easier and also finding a SDE jobs! 🚀
 
