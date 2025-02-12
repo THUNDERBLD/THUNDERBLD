@@ -17,7 +17,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=THUNDERBLD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&include_all_issues=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?usernam+order=false&include_all_commits=true&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=THUNDERBLD&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=THUNDERBLD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
