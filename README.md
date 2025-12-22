@@ -10,14 +10,6 @@
   
   <br/>
   
-  <!-- Social Badges -->
-  <p>
-    <a href="https://github.com/THUNDERBLD">
-      <img src="https://img.shields.io/github/followers/THUNDERBLD?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=THUNDERBLD&style=flat-square&color=blue" alt="Profile views">
-  </p>
-  
 </div>
 
 ---
@@ -191,9 +183,8 @@ const faraz = {
 
 **Open to exciting opportunities and innovative projects**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faraz-mohammed-162289227)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://faraz-mohammad-portfolio.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
