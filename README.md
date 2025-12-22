@@ -8,15 +8,7 @@
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Solutions;MERN+Stack+Developer;Cloud+%26+DevOps+Engineer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   
-  <br/>
   
-  <!-- Social Badges -->
-  <p>
-    <a href="https://github.com/THUNDERBLD">
-      <img src="https://img.shields.io/github/followers/THUNDERBLD?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=THUNDERBLD&style=flat-square&color=blue" alt="Profile views">
-  </p>
   
 </div>
 
