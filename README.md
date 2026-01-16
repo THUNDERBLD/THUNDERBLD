@@ -128,8 +128,6 @@ const faraz = {
 
 </div>
 
----
-
 <div align="center">
 
   ![]()<br/>
