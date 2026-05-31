@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:1a1200,70:1a1200,100:0d0d0d&height=220&section=header&text=THUNDERBLD&fontSize=78&fontAlignY=55&animation=fadeIn&fontColor=FFE600&stroke=FFE600&strokeWidth=2&desc=◈%20FARAZ%20◈%20FULL%20STACK%20◈%20DEVOPS%20◈%20BUILDER%20◈&descAlignY=78&descSize=14&descColor=ff9900" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:202836,70:202836,100:000000&height=220&section=header&text=THUNDERBLD&fontSize=78&fontAlignY=55&animation=fadeIn&fontColor=FFE600&stroke=FFE600&strokeWidth=2&desc=◈%20FARAZ%20◈%20FULL%20STACK%20◈%20DEVOPS%20◈%20BUILDER%20◈&descAlignY=78&descSize=14&descColor=ff9900" width="100%"/>
 
 <div align="center">
 
