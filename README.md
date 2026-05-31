@@ -39,6 +39,7 @@
 
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="52%" valign="top">
@@ -49,7 +50,7 @@
 const runner = {
   handle      : "THUNDERBLD",
   realName    : "Faraz Mohammed",
-  location    : "Haldwani, Uttarakhand 🇮🇳 // UTC+5:30",
+  location    : "Haldwani, Uttarakhand",
   affiliation : "Cardtree AI",
 
   jack_in     : ["MERN Stack", "Next.js",
@@ -74,6 +75,8 @@ const runner = {
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
@@ -209,36 +212,6 @@ STATUS : ◈ ACTIVE
 <tr>
 <td width="50%" valign="top">
 
-### 📖 [`LexIQ`](https://github.com/THUNDERBLD/LexIQ)
-```
-TYPE   : Language Intelligence Tool
-LANG   : JavaScript
-STATUS : ◈ COMMUNITY FAV
-```
-> Smart vocabulary engine with language intelligence. Forked by the community — words are power.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=javascript&logoColor=000)
-![Forks](https://img.shields.io/github/forks/THUNDERBLD/LexIQ?style=flat-square&color=FFE600&labelColor=1a1200&label=forks)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌌 [`Nasa`](https://github.com/THUNDERBLD/Nasa)
-```
-TYPE   : Space Data Explorer
-LANG   : JavaScript  ⭐ 6
-STATUS : ◈ STARRED
-```
-> NASA API integration — pulling data from the cosmos. Six humans liked this enough to star it.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=javascript&logoColor=000)
-![Stars](https://img.shields.io/github/stars/THUNDERBLD/Nasa?style=flat-square&color=FFE600&labelColor=1a1200&label=stars)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔐 [`TeraFortress`](https://github.com/THUNDERBLD/TeraFortress)
 ```
 TYPE   : Security Application
@@ -362,7 +335,6 @@ STATUS : ◈ SHIPPED
 
 ```
 
-// "Every great system was once just a madman's side project."
 // "Talent can be found anywhere in Night City.
 //  You just have to know where to look."
 // "They said automate everything.
