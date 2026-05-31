@@ -1,58 +1,180 @@
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=200&section=header&text=THUNDERBLD&fontSize=72&fontAlignY=55&animation=fadeIn&fontColor=00fff0&stroke=00fff0&strokeWidth=1&desc=Faraz%20%7C%20Full%20Stack%20%C3%97%20DevOps%20%C3%97%20Builder&descAlignY=78&descSize=18&descColor=7ecfff" width="100%"/>
+
 <div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=FARAZ&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
-  
-  <h3>Full Stack Developer | DevOps Enthusiast | Problem Solver</h3>
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Solutions;MERN+Stack+Developer;Cloud+%26+DevOps+Engineer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-  
-  <br/>
-  
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  > initializing profile...                                       ║
+║  > loading arsenal...                                            ║
+║  > STATUS: BUILDING IN PUBLIC  🟢                                ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00FFF0&center=true&vCenter=true&random=false&width=700&lines=const+role+%3D+%22Full+Stack+Engineer%22;const+stack+%3D+%5B%22MERN%22%2C+%22Next.js%22%2C+%22DevOps%22%5D;const+status+%3D+%22open+to+opportunities%22;%2F%2F+always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faraz-mohammed-162289227)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00fff0?style=flat-square&logo=vercel&logoColor=black)](https://faraz-mohammad-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-THUNDERBLD-181717?style=flat-square&logo=github)](https://github.com/THUNDERBLD)
+![Profile Views](https://komarev.com/ghpvc/?username=THUNDERBLD&color=00fff0&style=flat-square&label=profile+views)
+
 </div>
 
 ---
 
-<div align="center">
-  
-## 🚀 About Me
-
-</div>
+## `$ whoami`
 
 ```typescript
 const faraz = {
-    currentFocus: ["Chat Applications", "CI/CD Pipelines", "System Design"],
-    lookingToCollaborate: ["MERN Stack", "Next.js", "UI/UX Design"],
-    seekingHelp: ["Backend Optimization", "AI Integration", "Cloud Architecture"],
-    askMeAbout: ["Full Stack Development", "DevOps", "Scalable Solutions"],
-    funFact: "I automate my problems away and hunt for SDE opportunities! 🎯",
-    lifePhilosophy: "Code is like humor. When you have to explain it, it's bad."
+  alias    : "THUNDERBLD",
+  role     : "Full Stack Developer & DevOps Engineer",
+  location : "Haldwani, Uttarakhand 🇮🇳",
+  company  : "Cardtree AI",
+
+  currentlyBuilding : [
+    "⚡ Real-time Chat App  — WebSockets + Redis pub/sub",
+    "🔄 CI/CD Automation   — GitHub Actions pipelines",
+    "🏗️  Microservices Arch — Docker + Kubernetes",
+  ],
+
+  techPhilosophy : "Ship fast. Break things. Fix them faster.",
+  funFact        : "I automate my problems away, then hunt for SDE roles 🎯",
+
+  openTo : ["Full-time SDE roles", "OSS collaboration", "Interesting side quests"],
 };
 ```
 
-<div align="center">
-  
-## 💼 What I'm Up To
+---
 
-</div>
+## `$ cat /proc/tech-stack`
 
-<table align="center">
+<details open>
+<summary><b>⚡ Languages</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+---
+
+## `$ ls -la ./projects`
+
+<table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🔭 **Currently Building**
-- Real-time Chat Application with WebSockets
-- CI/CD automation tools for GitHub
-- Microservices architecture projects
+### ⚡ [ThunderCrawler](https://github.com/THUNDERBLD/ThunderCrawler)
+> **TypeScript** — Web crawler / scraping engine built for scale. Concurrent crawling with configurable depth and output.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Status](https://img.shields.io/badge/status-active-00fff0?style=flat-square)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-🎯 **Goals for 2025**
-- Master Kubernetes & Cloud Native
-- Contribute to Open Source
-- Land an amazing SDE role
+### 🤖 [ChatMate AI](https://github.com/THUNDERBLD/ChatMate_AI)
+> **TypeScript** — AI-powered real-time chat application with intelligent responses and modern UI.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Status](https://img.shields.io/badge/status-active-00fff0?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 [LexIQ](https://github.com/THUNDERBLD/LexIQ)
+> **JavaScript** — Smart vocabulary & language intelligence tool. ⭐ Community favorite.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Forks](https://img.shields.io/github/forks/THUNDERBLD/LexIQ?style=flat-square&color=00fff0)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [TeraFortress](https://github.com/THUNDERBLD/TeraFortress)
+> **JavaScript** — Security-focused application. Because every fortress needs walls.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/status-built-7ecfff?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 [Nasa](https://github.com/THUNDERBLD/Nasa)
+> **JavaScript** — Space data explorer using NASA APIs. ⭐ 6 stars • 2 forks — people love space.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Stars](https://img.shields.io/github/stars/THUNDERBLD/Nasa?style=flat-square&color=FFD700)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕷️ [WebScrapping](https://github.com/THUNDERBLD/WebScrapping)
+> **JavaScript** — Data extraction utilities. When you need the data and the website won't cooperate.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/status-built-7ecfff?style=flat-square)
 
 </td>
 </tr>
@@ -60,122 +182,48 @@ const faraz = {
 
 ---
 
-<div align="center">
-  
-## 🛠️ Tech Arsenal
-
-</div>
-
-<div align="center">
-  
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🚀 Deployment & Tools
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
+## `$ git log --stat`
 
 <div align="center">
 
-  ![]()<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=THUNDERBLD&theme=dark&hide_border=false)<br/><br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=THUNDERBLD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=THUNDERBLD&theme=dark&hide_border=true&ring=00fff0&fire=ff6b6b&currStreakLabel=00fff0&background=0d0d0d&stroke=1a1a2e&sideLabels=7ecfff&currStreakNum=ffffff&dates=555577)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THUNDERBLD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff)
 
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-[![FARAZ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=THUNDERBLD&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=THUNDERBLD&bg_color=0d0d0d&color=00fff0&line=00fff0&point=ffffff&area=true&area_color=0a2840&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
+## `$ fortune | cowsay`
+
 <div align="center">
 
-## 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
 ---
 
+## `$ curl -s contact.json | jq`
+
+```json
+{
+  "email"     : "ayanalihaider9@gmail.com",
+  "linkedin"  : "linkedin.com/in/faraz-mohammed-162289227",
+  "portfolio" : "faraz-mohammad-portfolio.vercel.app",
+  "cardtree"  : "cardtree.ai/thunder",
+  "instagram" : "@thunder_blood_9",
+  "status"    : "open_to_work ✅",
+  "response_time" : "< 24 hours"
+}
+```
+
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+**— built with ☕ and too many Stack Overflow tabs —**
 
-**Open to exciting opportunities and innovative projects**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faraz-mohammed-162289227)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://faraz-mohammad-portfolio.vercel.app/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=100&section=footer&fontColor=00fff0" width="100%"/>
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=THUNDERBLD&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<!-- Proudly crafted with passion 🚀 -->
