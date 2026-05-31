@@ -15,6 +15,11 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY2ZnFnbmZ3ZXBsMWltZXF5aXB2ZnczcXFmNHMzY2N5YnhzdGFvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/FvlKuPjwWNpPDHvG2B/giphy.gif" alt="GitHub Space Shooter Game" width="700" />
+</p>
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&pause=900&color=FFE600&center=true&vCenter=true&random=false&width=680&lines=%3E+INITIALIZING+FARAZ.EXE...&duration=1200" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&pause=900&color=FF9900&center=true&vCenter=true&random=false&width=680&lines=%3E+LOADING+FULL+STACK+MODULES......;%3E+INJECTING+DEVOPS+PROTOCOLS....;%3E+COMPILING+NEXT.JS+%2B+NODE+%2B+DOCKER...;%3E+ALL+SYSTEMS+NOMINAL+%E2%9C%94" />
 
@@ -28,7 +33,7 @@
 </div>
 
 <p align="center">
-  <img src="game.gif" alt="GitHub Space Shooter Game" width="1000" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV3cnJ2dzVreHl1cjFnMzViZXo1aHd4Z2hxYndpZWUxemQxYWZ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0PX1PqTeqhbtKMekM/giphy.gif" alt="GitHub Space Shooter Game" width="800" />
 </p>
 
 ---
@@ -139,6 +144,12 @@ const runner = {
 
 ---
 
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpuYzdsMDQ5cTUyYmZ0dXB5MmV3d2lyb3RpZG0zcG9lbmR1cTR0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uNzGan0eVgvmZfH6H5/giphy.gif" alt="GitHub Space Shooter Game" width="500" />
+</p>
+
+
 <div align="center">
 
 ```
@@ -244,6 +255,7 @@ STATUS   : ◈ SHIPPED
 
 </div>
 
+
 ---
 
 <div align="center">
@@ -304,6 +316,11 @@ STATUS   : ◈ SHIPPED
 //  You just have to know where to look."
 //  — build fast. break less. repeat. —
 ```
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBhMzNyZXFlN3ZzNDlvOGY3MXgwbjhzZnIyeDdneHZ6cWh5enZ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" alt="GitHub Space Shooter Game" width="500" />
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=THUNDERBLD&color=FFE600&style=flat-square&label=UPLINKS+ESTABLISHED)
 
