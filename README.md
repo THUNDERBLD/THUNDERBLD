@@ -33,7 +33,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV3cnJ2dzVreHl1cjFnMzViZXo1aHd4Z2hxYndpZWUxemQxYWZ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0PX1PqTeqhbtKMekM/giphy.gif" alt="GitHub Space Shooter Game" width="800" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV3cnJ2dzVreHl1cjFnMzViZXo1aHd4Z2hxYndpZWUxemQxYWZ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0PX1PqTeqhbtKMekM/giphy.gif" alt="GitHub Space Shooter Game" width="700" />
 </p>
 
 ---
@@ -254,6 +254,10 @@ STATUS   : ◈ SHIPPED
 ```
 
 </div>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29wazN1cmIxemhqMzNmdnU2YzVscnJwd242bmhwZTFnM2o5Z203byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cV0kQmbHs60qJIOpIC/giphy.gif" alt="GitHub Space Shooter Game" width="750" />
+</p>
 
 
 ---
