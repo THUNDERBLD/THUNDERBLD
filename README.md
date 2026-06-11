@@ -22,7 +22,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-FFE600?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/faraz-mohammed-162289227)
 [![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-FF9900?style=for-the-badge&logo=vercel&logoColor=000000)](https://faraz-mohammad-portfolio.vercel.app/)
-[![ThedoubleAI](https://img.shields.io/badge/◈_CARDTREE.AI-FFE600?style=for-the-badge&logo=lightning&logoColor=000000)](https://cardtree.ai/thunder)
+[![ThedoubleAI](https://img.shields.io/badge/◈_CARDTREE.AI-FFE600?style=for-the-badge&logo=lightning&logoColor=000000)](https://thedouble.ai/thunder)
 ![Views](https://komarev.com/ghpvc/?username=THUNDERBLD&color=FFE600&style=for-the-badge&label=UPLINKS)
 
 </div>
